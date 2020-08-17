@@ -222,6 +222,8 @@ System.out.println("select your option: 1-insertionatlast, 2-deletion, 3-update,
 int choice = scr3.nextInt();
 
 LinkList link1 = new LinkList();
+skjdklsjksljlfjslk
+
 
         
 switch(choice)
@@ -242,4 +244,4 @@ break;
 }
 }
 ===
-test
+test123
